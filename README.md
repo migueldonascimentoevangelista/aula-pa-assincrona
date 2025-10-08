@@ -220,20 +220,20 @@ Exemplo: 5! = 5 × 4 × 3 × 2 × 1 = 120.
 
 ---
 
-### 11️⃣ Sequência de Fibonacci
+### 1️⃣1️⃣ Sequência de Fibonacci
 
 Mostre os primeiros N termos da sequência de Fibonacci.
 (1, 1, 2, 3, 5, 8...)
 
 ---
 
-### 12️⃣ Número Primo
+### 1️⃣2️⃣ Número Primo
 
 Verifique se um número informado é primo (divisível apenas por 1 e ele mesmo).
 
 ---
 
-### 13️⃣ Estatísticas
+### 1️⃣3️⃣ Estatísticas
 
 Leia vários números até o usuário digitar 0.
 Mostre:
@@ -244,14 +244,14 @@ Mostre:
 
 ---
 
-### 14️⃣ Caixa de Loja
+### 1️⃣4️⃣ Caixa de Loja
 
 Peça o valor das compras até o cliente digitar 0.
 No final, mostre o total a pagar.
 
 ---
 
-### 15️⃣ 🧭 MENU DE OPÇÕES (Desafio Final)
+### 1️⃣5️⃣ 🧭 MENU DE OPÇÕES (Desafio Final)
 
 Monte um **menu interativo** com o seguinte formato:
 
