@@ -1,10 +1,10 @@
-const input = require('readline-sync');
+const readlineSync = require('readline-sync');
 
-let numero = input.questionInt("Digite um numero: ");
-let fatorial = 1
+const n = readlineSync.questionInt("Digite um número inteiro não negativo: ");
 
-for (let i = numero; i > 0; index--) {
-    fatorial = i ** i;
+let resultado = 1;
+for (let i = 2; i <= n; i++) {
+  resultado *= i;
 }
 
-console.log(fatorial);
+console.log(`${n}! = ${resultado}`)
